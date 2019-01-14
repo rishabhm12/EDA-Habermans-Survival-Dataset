@@ -10,7 +10,7 @@ Plotted:-
 
 4) Pair Plots
 
-5 Mean, variance and standard deviation of features
+5) Mean, variance and standard deviation of features
 
 6) Box plot with whiskers
 
